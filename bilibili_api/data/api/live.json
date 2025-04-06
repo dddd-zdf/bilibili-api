@@ -110,7 +110,7 @@
       "comment": "获取大航海列表"
     },
     "gaonengbang": {
-      "url": "https://api.live.bilibili.com/xlive/general-interface/v1/rank/getOnlineGoldRank",
+      "url": "https://api.live.bilibili.com/xlive/general-interface/v1/rank/getOnlineRank",
       "method": "GET",
       "verify": false,
       "params": {
